@@ -1,4 +1,4 @@
-//META{"name":"Discord_Reborn","description":"A nice sleek transparent theme.","author":"Omniscient","version":"0.0"}*//
+//META{"name":"Discord_Tigerr","description":"A nice theme.","author":"ItsTigerr","version":"1.0"}*//
 
 /* IMPORT CSS FROM GITHUB */
 @import url("https://raw.githubusercontent.com/ItsTigerss/DiscordTheme-1/master/Tigerr");
@@ -21,13 +21,5 @@ RECOMMENDATIONS: EVERY URL AT THE BOTTOM SHOULD BE THE SAME TO MAKE THE THEME MA
 .app, .callout-backdrop, .userPopout-4pfA0d::before { background-image: url("https://imgur.com/RG03PyX.png") !important; background-size: cover !important; }
 
  /*
----------------------------------------------------------------------------------------------------------------------------------------------
-===== CREDITS =====
-URI
-BEARDDESIGN
-ZERTHOX
-THESE PEOPLE HAVE HELPED CREATE THIS THEME IN ONE WAY OR THE OTHER.
-===== TROUBLESHOOTING =====
-IF YOU NEED ANY HELP GO TO HTTPS://BETTERDOCS.NET
 ---------------------------------------------------------------------------------------------------------------------------------------------
 */
